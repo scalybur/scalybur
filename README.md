@@ -1,7 +1,9 @@
 # My Metadata🌎
-## Hi, thanks for watching 👽
+### Hi, thanks for watching 👽
 
 I´m Nahuel Alejandro Cabrera 🩴
+
+###### BASIC PROPOSALS
 
  - 🧃 How does technology improve our life?
  - 🧊 How to build creations that suppose a real solution?
@@ -12,20 +14,36 @@ I´m Nahuel Alejandro Cabrera 🩴
  - 🪅 We have to stay united
  - 🪄 Give the best of yourself
 
+__
+
 You are welcome to know more about my contributions
 
 If you are interested on my organizations:
 
-@conartic (NON-GOVERNMENTAL ORGANIZATION - ARGENTINA, BUENOS AIRES)
-Research, advancement and protection in the universe of information and communication technologies in South America
+### CONARTIC
+@Conartic (NON-GOVERNMENTAL ORGANIZATION - ARGENTINA, BUENOS AIRES)
+[Conartic Global Website](https://conartic.com/).
 
-@deepuniversal
-Human tools (Project)
+Research, advancement and protection in the universe of information and communication technologies in South America project.
 
-🌕
-🌕
-🌑
+### DEEP UNIVERSAL
+@DeepUniversal (CORPORATE ORGANIZATION)
+[Deep Universal Global Website](https://deepuniversal.com/).
+Human tools development presentation:
+
+###### JETCKET
+Visit [Jetcket Global Website](https://jetcket.com/).
+
+###### NOWKET
+Visit [Nowket Global Website](https://nowket.com/).
+
+###### BITCKET
+Visit [Bitcket Global Website](https://bitcket.com/).
+
+###### HEXACHANGE
+Visit [Hexachange Global Website](https://hexachange.com/).
+
 🌑
 
 📍 Argentina (🇦🇷)
-_______________
+__
